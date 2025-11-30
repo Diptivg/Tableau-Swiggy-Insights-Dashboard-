@@ -26,3 +26,5 @@ This project presents a **Swiggy Insights Dashboard** built using Tableau, analy
 2. Open the file:
 3. Select the downloaded file
 4. Open
+
+⭐ If you found this project insightful, consider giving it a star on GitHub! 🌟
